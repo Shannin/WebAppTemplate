@@ -1,0 +1,11 @@
+/* app css stylesheet */
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    font-size: 14px;
+    font-family: myriad-pro, sans-serif;
+    background: rgb(250, 250, 250);
+}

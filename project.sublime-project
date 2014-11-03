@@ -1,0 +1,34 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"folder_exclude_patterns":
+			[
+			    "out",
+			    "css",
+			    "node_modules",
+			],
+			"file_exclude_patterns":
+            [
+            	".gitignore",
+            	"project.sublime-project",
+            ],
+		},
+	],
+	"files":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+			],
+		},
+	],
+	"settings":
+	{
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true,
+	},
+}
